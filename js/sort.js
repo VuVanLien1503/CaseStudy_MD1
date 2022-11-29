@@ -1193,6 +1193,7 @@ function shoeMbl() {
 }
 
 function checkMoney() {
+    homeShoe();
     let checkbox = document.getElementsByName("check");
     for (let i = 0; i < checkbox.length; i++) {
         if (checkbox[i].checked === true) {
@@ -1203,6 +1204,7 @@ function checkMoney() {
 }
 
 function checkSize() {
+    homeShoe();
     let checkbox = document.getElementsByName("checkSize");
     for (let i = 0; i < checkbox.length; i++) {
         if (checkbox[i].checked === true) {
