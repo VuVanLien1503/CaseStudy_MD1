@@ -1,0 +1,32 @@
+1. xây dựng class gồm cách thuộc tính:
+shoe
+-id
+-name
+-tradeMark
+-size
+-price
+-img
+-Category
+-----------------------
+    Xây dựng tính năng:
+    1. đăng nhập - đăng xuất
+    2. đăng nhập thành công:    - là admin:
+                                            + thêm
+                                            + Xửa
+                                            + xóa
+                                - Là user :
+                                           + mua
+                                           + Thanh Toan
+                                - Là Khách :
+                                            + Đăng Ký user
+
+    3.show toàn bộ Sản Phẩm :
+
+    4.
+                - sắp xếp theo giá tiền
+                - sắp xếp theo size SP
+                                 - sắp Xếp theo nhẫn hiệu SP
+                                 - Tìm kiếm theo tên SP
+                                 - phan loại giầy nam nữ
+
+
